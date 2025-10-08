@@ -1,2 +1,4 @@
 purvonachalno sudurjanie
+promqna ot kopie 1 (visual studio)
+promqna direktno v GitHub Remote
 promqna ot kopie 2 konfliktno
